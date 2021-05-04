@@ -16,16 +16,10 @@ Vocês devem entender todo o algoritmo JavaScript, assim como as partes CSS e HT
 
 4. Tem a aparência próxima à imagem abaixo;
 
+![Pyramid](pyramid.png)
+
 ## Refatorando
 
 O desafio extra é a implementação de modificações que deixem o código mais bem escrito. Usem a imaginação!
 
-## Orientações de criação de Pull Request:
-
-A `branch` da equipe deve conter o nome de cada pessoa do grupo. `lucas-joao-ricardo-...`
-
-O resto é com vocês!
-
-![Pyramid](pyramid.png)
-
-**Divirtam-se!**
+**Divirtam-se!🚀🔼**
